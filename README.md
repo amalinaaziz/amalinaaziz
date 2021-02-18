@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amalinaaziz
 - 👀 I’m interested in software development using latest frameworks
-- 🌱 I’m currently learning react and actively learning various areas to improve my coding skills
+- 🌱 I’m currently learning react and actively learning various areas to improve my coding skills 
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
