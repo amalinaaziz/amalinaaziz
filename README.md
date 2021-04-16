@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amalinaaziz
-- 👀 I’m interested in software development using latest frameworks
-- 🌱 I’m currently improving my skills in react
+- 👀 I’m a software developer with 5 years experience.
+- 🌱 I know VueJS, MongoDB, ExpressJS, NodeJS, REST API, GIT, Firebase, ECMAScript (ES6), AWS, GCP, SASS, LESS, Cordova, npm, yarn, BLE, OAuth, MySQL, MsSQL, ReactJS, ASP, jQuery, PHP, JSON, IIS, JavaScript, HTML, CSS
 - 💻 Practices for large-scale applications and how to write flexible, maintainable software
 - ✨ Actively learning in various areas to improve my coding skills and to keep up with latest technologies!
 <!-- - 💞️ I’m looking to collaborate on ...
